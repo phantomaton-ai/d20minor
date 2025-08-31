@@ -4,51 +4,45 @@ Adventurers need good gear. This section describes some of the most common equip
 
 ### Armor
 
-| Armor | Armor Class | Price (GP) |
-|---|---|---|
-| Light Armor (Leather) | 11 + Dexterity modifier | 10 |
-| Medium Armor (Chain Shirt) | 13 + Dexterity modifier (max +2) | 50 |
-| Heavy Armor (Plate) | 18 | 1,500 |
-| Shield | +2 to AC | 10 |
-| *+1 Shield* | +3 to AC | 5,000 |
+Armor helps protect you from attacks. The better the armor, the higher your Armor Class (AC).
+
+| Armor | Armor Class |
+|---|---|
+| Light Armor (Leather) | 11 + Dexterity modifier |
+| Medium Armor (Chain Shirt) | 13 + Dexterity modifier (max +2) |
+| Heavy Armor (Plate) | 18 |
+| Shield | +2 to AC |
 
 ### Weapons
 
-#### Light Melee Weapons
-| Weapon | Damage | Price (GP) |
-|---|---|---|
-| Dagger | 1d4 | 2 |
-| Handaxe | 1d6 | 5 |
+Every adventurer needs a trusty weapon. Here are a few to choose from.
 
-#### Heavy Melee Weapons
-| Weapon | Damage | Price (GP) |
+| Weapon | Damage | Properties |
 |---|---|---|
-| Longsword | 1d8 | 15 |
-| Battleaxe | 1d8 | 10 |
-| Greatsword | 1d12 | 50 |
-| Greataxe | 1d12 | 30 |
-| *+1 Longsword* | 1d8+1 | 5,000 |
-
-#### Light Ranged Weapons
-| Weapon | Damage | Price (GP) |
-|---|---|---|
-| Dagger (thrown) | 1d4 | 2 |
-| Handaxe (thrown) | 1d6 | 5 |
-
-#### Heavy Ranged Weapons
-| Weapon | Damage | Price (GP) |
-|---|---|---|
-| Shortbow | 1d6 | 25 |
-| Longbow | 1d8 | 50 |
+| Dagger | 1d4 piercing | Light, thrown |
+| Shortsword | 1d6 piercing | Light |
+| Longsword | 1d8 slashing | - |
+| Greatsword | 1d12 slashing | Two-handed |
+| Handaxe | 1d6 slashing | Light, thrown |
+| Battleaxe | 1d8 slashing | - |
+| Greataxe | 1d12 slashing | Two-handed |
+| Shortbow | 1d6 piercing | Two-handed, ranged |
+| Longbow | 1d8 piercing | Two-handed, ranged |
 
 ### Adventuring Gear
 
-| Item | Price (GP) |
-|---|---|
-| Backpack | 2 |
-| Rope (50 feet) | 1 |
-| Torches (10) | 1 |
-| Rations (3 days) | 2 |
-| Waterskin | 1 |
-| *Potion of Healing* | 50 |
-| *Boots of Elvenkind* | 5,000 |
+Here are a few other things you might need on your adventures.
+
+*   **Backpack:** To carry your stuff.
+*   **Rope:** 50 feet of rope. You never know when you'll need it.
+*   **Torches (10):** To light up dark places.
+*   **Rations (3 days):** Food for the road.
+*   **Waterskin:** To carry water.
+
+### Magic Items
+
+Magic items are rare and powerful. Here are a few examples.
+
+*   ***+1 Sword:*** This sword is magical. You get a +1 bonus to attack and damage rolls made with it.
+*   ***Potion of Healing:*** When you drink this potion, you regain 2d4+2 hit points.
+*   ***Boots of Elvenkind:*** Your steps make no sound. You can move silently.

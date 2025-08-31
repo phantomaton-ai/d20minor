@@ -12,7 +12,7 @@ Every character also has a race, which describes what kind of creature they are.
 
 *Elves are graceful and long-lived. They are at home in the forests and wild places of the world.*
 
-*   **Special Ability: Fleet of Foot.** Your speed is 35 feet, instead of 30.
+*   **Special Ability: Fey Ancestry.** You have a +2 bonus on ability checks to resist being charmed.
 
 ### Dwarf
 
@@ -20,8 +20,14 @@ Every character also has a race, which describes what kind of creature they are.
 
 *   **Special Ability: Toughness.** Your hit point maximum increases by 1 for every level you have.
 
-### Gnome
+### Halfling
 
-*Gnomes are small, clever, and full of energy. They love to invent and build things.*
+*Halflings are small, cheerful folk who are surprisingly lucky.*
 
-*   **Special Ability: Cunning.** You have a +2 bonus on ability checks to resist magic.
+*   **Special Ability: Lucky.** When you roll a 1 on a d20 for an ability check, you can re-roll the die and must use the new roll.
+
+### Half-Orc
+
+*Half-orcs are strong and tough, with a bit of orcish blood.*
+
+*   **Special Ability: Savage Attacks.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
